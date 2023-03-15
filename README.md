@@ -2,6 +2,7 @@
  
 ## 1. Introducción a la programación.
 [Presentación](https://www.canva.com/design/DAEoHoUA9ok/XbzOWmt1uDCw-HTiA1V8dg/view?utm_content=DAEoHoUA9ok&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 [Replit](https://replit.com/)
 
 ## 2. Programación con Python.
