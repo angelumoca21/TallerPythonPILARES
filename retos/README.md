@@ -22,7 +22,7 @@ g = 9.81
 ![Reto3](https://github.com/angelumoca21/TallerPythonPILARES/blob/main/img/reto3.png)
 
 ## 4. Operadores lógicos y relacionales
-Realiza un programa con el que se compruebe el resultado de los siguientes expresiones: 
+Realiza un programa con el que se compruebe el resultado de las siguientes expresiones: 
 
 |Operación   |Resultado|
 |------------|---------|
