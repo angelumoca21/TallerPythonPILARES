@@ -20,3 +20,31 @@ Realiza un programa que pida por teclado al usuario la masa de su cuerpo en kg y
 g = 9.81
 
 ![Reto3](https://github.com/angelumoca21/TallerPythonPILARES/blob/main/img/reto3.png)
+
+## 4. Operadores lógicos y relacionales
+Realiza un programa con el que se compruebe el resultado de los siguientes expresiones: 
+
+|Operación   |Resultado|
+|------------|---------|
+|2 == 2      |True     |
+|2 == 2.0    |True     |
+|1 == 5      |False    |
+|789 != 789  |False    |
+|-3256 < 3256|True     |
+|(4%2) == 0  |True     |
+|(20/3) <= 7 |True     |
+
+
+
+**Si: x = 0, y = 1, z = 0**
+|Operaciones |Resultado|
+|------------|---------|
+|x == y      |False    |
+|x == z      |True     |
+|x != y      |True     |
+|x != z      |False    |
+|x and z     |False    |
+|z or y      |True     |
+|not y       |False    |
+
+![Reto4](https://github.com/angelumoca21/TallerPythonPILARES/blob/main/img/reto4.png)
