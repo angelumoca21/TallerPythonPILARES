@@ -16,6 +16,7 @@ Ingresa al siguiente link: [Ascii Art](https://www.asciiart.eu/) y escoge alguno
 ## 3. Operadores artiméticos
 Realiza un programa que pida por teclado al usuario la masa de su cuerpo en kg y calcule su peso (w). 
 **w = m x g** 
+
 g = 9.81
 
 ![Reto3]()
