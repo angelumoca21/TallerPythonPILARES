@@ -10,6 +10,7 @@
 
 [Presentación: Operadores](https://www.canva.com/design/DAFd8R7WIYY/BCS6oaT8DnSxigwCPekLpQ/view?utm_content=DAFd8R7WIYY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
+[Presentación: Condicionales](https://www.canva.com/design/DAFegLrXGd0/dq_domKsFqmfnD9XDxuQxQ/view?utm_content=DAFegLrXGd0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 [Retos](https://github.com/angelumoca21/TallerPythonPILARES/tree/main/retos)
 
