@@ -74,11 +74,7 @@ Escribir un programa que pregunte al usuario su edad y muestre por pantalla todo
 ## 9. Bucles II
 Escribir un programa que pida al usuario un número entero y muestre por pantalla un triángulo rectángulo como el de más abajo, de altura el número introducido.
 
-*
-**
-***
-****
-*****
+![BuclesII](https://github.com/angelumoca21/TallerPythonPILARES/blob/main/img/triangulo.png)
 
 ## 10. Bucles III
 Escribir un programa que muestre por pantalla la tabla de multiplicar del 1 al 10 de un número ingresado por teclado.
