@@ -67,3 +67,21 @@ Ingredientes no vegetarianos: Peperoni, Jamón y Salmón.
 Escribir un programa que pregunte al usuario si quiere una pizza vegetariana o no, y en función de su respuesta le muestre un menú con los ingredientes disponibles para que elija. Solo se puede eligir un ingrediente además de la mozzarella y el tomate que están en todas la pizzas. Al final se debe mostrar por pantalla si la pizza elegida es vegetariana o no y todos los ingredientes que lleva.
 
 ![Reto7](https://github.com/angelumoca21/TallerPythonPILARES/blob/main/img/reto7.png)
+
+## 8. Bucles I
+Escribir un programa que pregunte al usuario su edad y muestre por pantalla todos los años que ha cumplido (desde 1 hasta su edad).
+
+## 9. Bucles II
+Escribir un programa que pida al usuario un número entero y muestre por pantalla un triángulo rectángulo como el de más abajo, de altura el número introducido.
+
+*
+**
+***
+****
+*****
+
+## 10. Bucles III
+Escribir un programa que muestre por pantalla la tabla de multiplicar del 1 al 10 de un número ingresado por teclado.
+
+## 10. Bucles IV
+Escribir un programa que muestre el eco de todo lo que el usuario introduzca hasta que el usuario escriba “salir” que terminará.
